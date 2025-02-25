@@ -10,7 +10,7 @@ There were a total of 13 variables that alluded to various characteristics of ho
 # Data Cleaning
 I used the print(bh.dtypes) command to show the types of variables that were being used in the dataset. The RAD and CHAS variables were not in the type specified and were converted to the float64 and bool data type using the astype command.
 
-In order to find the variables where the missing values were in and how many there were, I created the list using the bh.isna().sum() command. The output below shows that the variable “NOX” had 9 missing values.
+In order to find the variables where the missing values were in and how many there were, I created the list using the bh.isna().sum() command. The output shows that the variable “NOX” had 9 missing values.
 
 I used the various methods for filling or replacing all the null values found in the NOX column. Initially, I made copies of the dataset using the bh.copy command, followed by the following four commands for all the tasks i to iv.
 bh_del_col.dropna(axis=1, inplace=True)
