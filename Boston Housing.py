@@ -1,4 +1,3 @@
-##### Principles of Data Science - Midterm Coursework
 # By: Danyal Khattak
 
 #%%
