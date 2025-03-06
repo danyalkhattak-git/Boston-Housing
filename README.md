@@ -63,7 +63,7 @@ The scatter matrix output shows the two most highly correlated variables (LSTAT 
 
 The connection between the industrial factor and median value seems to be more of a binary variable, where most of the industrial zones are generally found in low value housing regions, as shown by the sharp decline in the number of industrial zones after the value of house goes above ~28.
 
-There also seems to be a substantial correlation between the Nitrous oxide concentration and the number of industrial units in the region, which also makes sense as it is these regions where that gas is generally generated. I believe this is the other correlation that was mentioned in the assignment.
+There also seems to be a substantial correlation between the Nitrous oxide concentration and the number of industrial units in the region, which also makes sense as it is these regions where that gas is generally generated. 
 
 The number of rooms per household and the status of the population seems to be mildly inversely proportional to each other, this also follows from reason that neighborhoods that are generally not that well off will have smaller housing units.
 
