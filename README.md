@@ -3,7 +3,7 @@ Analyzed the correlations between housing variables and median home value in Bos
 
 This was a small project I did on finding correlations between different variables and the median home value in Boston. 
 
-The dataset used is open-source and can be found easily online @ https://www.kaggle.com/code/prasadperera/the-boston-housing-dataset
+The dataset used is open-source and can be found easily online @ https://www.kaggle.com/datasets/arunjangir245/boston-housing-dataset
 
 There were a total of 13 variables that alluded to various characteristics of housing units in the Boston Areas, qualities like number of rooms, proximity to the sea, etc.
 
